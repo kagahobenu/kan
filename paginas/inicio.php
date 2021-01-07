@@ -17,7 +17,7 @@
             </div>
         </div>
         <div class="col">
-            <h1>Lorem ipsum</h1>
+            <h1>Site em Manutenção</h1>
             <p class="text-justify">Lorem Ipsum is simply dummy text of 
                 the printing and typesetting industry. Lorem Ipsum has 
                 been the industry's standard dummy text ever since the 
